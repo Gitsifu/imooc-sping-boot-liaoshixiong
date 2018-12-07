@@ -1,2 +1,10 @@
 # imooc-sping-boot-liaoshixiong
 imooc《2小时学会spring boot》视频如何播放教程
+
+1、下载：链接：[下载](https://pan.baidu.com/s/1cB9N27icbI0xRBLNQdRKAQ) 提取码：izfu 
+
+2、在手机 `\Android\data\cn.com.open.mooc\video` 目录下新建`mf_767`目录
+
+3、将下载的视频复制到该目录下
+
+4、打开慕课网手机app即可观看
